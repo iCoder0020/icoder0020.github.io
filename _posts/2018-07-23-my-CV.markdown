@@ -1,9 +1,9 @@
 ---
 title:  "Curriculum Vitae"
 date:   2018-07-23 14:00:00
-categories: [CV]
-tags: [CV]
+categories: [Curriculum Vitae]
+tags: [Curriculum Vitae]
 ---
-My Curriculum Vitae.
+<b><font size = "5">My Curriculum Vitae</font></b>
 
-<a href ="../../Ishan_Sang_CV.pdf"> Click here </a> to view my CV.
+<p><a href ="../../Ishan_Sang_CV.pdf"> Click here </a> to view my CV.</p>
