@@ -1,0 +1,15 @@
+---
+title:  "GLMC"
+date:   2018-09-29 14:00:00
+categories: [Projects]
+tags: [Projects]
+---
+<b><font size = "5">GLMC</font></b>
+
+<p>glmc Linear Algebra Library for OpenGL in C</p>
+
+<p>This library is meant to be used as a C replacement for glm, with a plan of a wrapper for python.</p>
+
+<p>The library mainly implements various operations like multiplication, inverse, transpose, etc. on matrices and normalisation, reflection, etc. on vectors. It supports square matrices and matrices of sizes 2,3 and 4. Most of the functions are hard-coded to maximise performance.</p>
+
+<p><a href ="https://github.com/iCoder0020/glmc">Here</a> is a link to my repository which contains the code of this project.</p>
