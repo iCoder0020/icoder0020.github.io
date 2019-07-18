@@ -6,6 +6,8 @@ tags: [Projects]
 ---
 <b><font size = "5">Yawn Detector</font></b>
 
+<font size = "3">
+
 <p>Deep Learning Based Yawn Detection for Driver Drowsiness Prediction</p>
 
 <p>This project is meant to detect whether the user is yawning or not given a live video feed</p>
@@ -24,4 +26,6 @@ We then tested our model on live videos and tweaked the hyperparameters a bit to
 
 <p>The final model did work in real-time (~27 fps)</p>
 
-<p><a href ="https://github.com/iCoder0020/DL-based-Yawn-Detection">Here</a> is a link (currently private; will be updated soon) to my repository which contains the files corresponding to the project.</p>
+<p><a href ="https://github.com/iCoder0020/DL-based-Yawn-Detection">Here</a> is a link (currently private; will be updated soon) to our repository which contains the files corresponding to the project.</p>
+
+</font>
